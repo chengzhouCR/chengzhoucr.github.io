@@ -1,1 +1,25 @@
-.media-wrap{position:relative;max-width:100%!important;height:0;padding-bottom:45%;margin-bottom:20px}@media (max-width:736px){.media-wrap{padding-bottom:56.25%}}.media-wrap embed,.media-wrap iframe,.media-wrap object{position:absolute;top:0;left:0;max-width:100%!important;height:100%!important}
+.media-wrap {
+ position: relative;
+/*改为max-width，并添加!important*/
+ max-width: 100% !important;
+ height: 0;
+ padding-bottom: 45%;
+/*增加margin-bottom*/
+ margin-bottom:20px;
+}
+/*增加判断是否为@media*/
+@media (max-width:736px){
+ .media-wrap {
+ padding-bottom: 56.25%;
+ }
+}
+.media-wrap iframe,
+.media-wrap embed,
+.media-wrap object {
+ position: absolute;
+ top: 0;
+ left: 0;
+/* 改为max-width，并添加!important */
+ max-width: 100% !important;
+ height: 100% !important;
+}
