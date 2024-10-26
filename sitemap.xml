@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.mitsuha.org/posts/4c64bda3/</loc>
+    
+    <lastmod>2024-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.mitsuha.org/posts/9f1443fb/</loc>
+    
+    <lastmod>2024-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.mitsuha.org/about/</loc>
     
     <lastmod>2024-07-31</lastmod>
@@ -14,24 +32,6 @@
     <loc>https://blog.mitsuha.org/links/</loc>
     
     <lastmod>2024-07-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.mitsuha.org/posts/4c64bda3/</loc>
-    
-    <lastmod>2024-07-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.mitsuha.org/posts/9f1443fb/</loc>
-    
-    <lastmod>2024-07-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
